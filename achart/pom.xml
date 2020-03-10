@@ -27,7 +27,7 @@
 				<directory>src</directory>
 				<includes>
 				    <include>**/*.png</include>
-				</includes>
+				</includes> 
 		    </resource>
 		</resources>
 		<plugins>
